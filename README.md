@@ -1,6 +1,6 @@
 # Diamond-price-predictor
 
-is a practice project for learning machine learning and data preprocessing
+This is a practice project for learning machine learning and data preprocessing
 
 
 dataset used:diamonds.csv
